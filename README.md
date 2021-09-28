@@ -43,7 +43,7 @@ Clean up and Analysis
 
 Outputs:
 ========
-1. "x.txt" is the merged and tidied dataset from train and test dataset. Read CodeBook.md  that describes the variables, the data, and any transformations or work performed to clean up the data.
+1. "x.txt" is the merged and tidied dataset from train and test dataset. Read CodeBook.md  that describes the variables.
 2. "xmean.txt" is a summary of the average of each variable accross activities group.
 
 
