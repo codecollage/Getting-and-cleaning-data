@@ -9,7 +9,7 @@ Full description: <http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recogni
 
 Files:
 ======
-- CodeBook.md: describes the variables, the data, and any transformations or work performed to clean up the data.
+- CodeBook.md: describes the variables.
 
 - download_extract.R : an R script to download dataset
 
