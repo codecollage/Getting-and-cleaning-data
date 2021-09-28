@@ -18,8 +18,8 @@ Files:
 
 Outputs:
 ========
-1. "x.csv" is the merged and tidied dataset from train and test dataset. Read CodeBook.md  that describes the variables, the data, and any transformations or work performed to clean up the data.
-2. "xmean.csv" is a summary of the average of each variable accross activities group.
+1. "x.txt" is the merged and tidied dataset from train and test dataset. Read CodeBook.md  that describes the variables, the data, and any transformations or work performed to clean up the data.
+2. "xmean.txt" is a summary of the average of each variable accross activities group.
 
 
 License:

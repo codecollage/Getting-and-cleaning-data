@@ -22,7 +22,7 @@ Clean up and Analysis
   - Uses descriptive activity names to name the activities in the data set by mapping numeric label from y_train and y_test to the activity_labels data.
   - Appropriately labels the data set with descriptive variable names with following criteria: all lowercase, descriptive (t: time, f: freq, acc: acceleration, mag: magnitude), contain no underscores/dot/space.
 2. From the tidy dataset above, a second, independent tidy data set with the average of each variable for each activity and each subject is created.
-3. Output files are saved into csv format in the "output" folder.
+3. Output files are saved into txt format in the "output" folder.
 
 
 Variables

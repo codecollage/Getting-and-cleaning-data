@@ -65,5 +65,5 @@ xmean <- aggregate(x[, !names(x) %in% "activity"], list(x$activity), mean)
 
 # Write tidy data and mean summary to the csv files
 dir.create(file.path(".\\output"), showWarnings = FALSE)
-write.csv(x, ".\\output\\x.csv")
-write.csv(xmean, ".\\output\\xmean.csv")
+write.table(x, ".\\output\\x.txt", row.names = FALSE)
+write.table(xmean, ".\\output\\xmean.txt", row.names = FALSE)
